@@ -1,0 +1,31 @@
+{
+  "name": "animals.js",
+  "version": "1.0.0",
+  "description": "Generates some random pictures of animals.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcaNPM/animals.js.git"
+  },
+  "keywords": [
+    "animals",
+    "animal",
+    "cats",
+    "dogs",
+    "foxes",
+    "ducks"
+  ],
+  "author": "Toastify (https://toastify.tk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcaNPM/animals.js/issues"
+  },
+  "homepage": "https://github.com/tcaNPM/animals.js#readme",
+  "dependencies": {
+    "superagent": "^8.0.3"
+  }
+}
